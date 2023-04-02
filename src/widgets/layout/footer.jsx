@@ -79,9 +79,9 @@ export function Footer({ title, description, socials, menus, copyright }) {
 }
 
 Footer.defaultProps = {
-  title: "Material Tailwind",
+  title: "Hamzah Family",
   description:
-    "Easy to use React components for Tailwind CSS and Material Design.",
+    "Test Website.",
   socials: [
     {
       color: "blue",
